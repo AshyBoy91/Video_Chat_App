@@ -1,6 +1,6 @@
 # Video Chat App Using Agora SDK
 
-App is made made with Django - Python using Agora SDK. Live project is [here] (https://videochatapp91.herokuapp.com/). You may have to refresh the page as sometime heroku takes time to run the project
+App is made made with Django - Python using Agora SDK. Live project is [here](https://videochatapp91.herokuapp.com). You may have to refresh the page as sometime heroku takes time to run the project
 
 With this app, you can:
 
